@@ -1,4 +1,4 @@
-# StudioCam
+# PickleCam
 
 Cross-platform recorder for iPad, Android, desktop browsers, Mac, and IP cameras.
 Each recording can be saved to the **business owner's Google Drive** (free 15 GB
